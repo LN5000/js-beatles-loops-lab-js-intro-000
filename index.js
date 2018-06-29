@@ -4,4 +4,5 @@ function theBeatlesPlay(musicians,instruments) {
   for (i = 0; i < l; i++) {
     sentences.push("${musicians[i]} plays ${instruments[i]}");
 }
+  return sentences;
 }
