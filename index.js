@@ -25,4 +25,5 @@ function iLoveTheBeatles(n) {
     i++;
   }
   while (i < n);
+  return output;
 }
